@@ -1,3 +1,9 @@
+todo:
+[ ] swap model to Qwen2.5 3B Q2_K
+[ ] fix prompt
+
+
+
 # OpenCraft
 
 OpenCraft is an open source implementation of the popular game InfiniteCraft. 
