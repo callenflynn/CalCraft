@@ -15,7 +15,7 @@ OpenCraft is an open source implementation of the popular game InfiniteCraft.
 
 ## Setup
 
-Download the `mistral-7b-instruct-v0.1.Q8_0.gguf` into the server/models folder. You can downloa it [here](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/tree/main).
+Download `qwen2.5-3b-instruct-Q2_K.gguf` into the server/models folder. You can download it [here](https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF).
 
 Please make sure to run both the frontend and the backend servers, otherwise OpenCraft will not work.
 
@@ -52,11 +52,3 @@ npm run start
 ## Contributing
 
 Please open an issue and wait for the approval of a Maintainer before submitting a PR. 
-
-## Support me
-
-We are building **[solidtime](https://www.solidtime.io) - The modern Open Source Time Tracker**
-
-[<img width="600" alt="image" src="https://github.com/bufferhead-code/opencraft/assets/6266887/72437557-7a68-4da1-bcc7-befe808134fc">](https://www.solidtime.io)
-
-
