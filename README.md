@@ -1,6 +1,6 @@
 todo:
-[ ] swap model to Qwen2.5 3B Q2_K
-[ ] fix prompt
+[x] swap model to Qwen2.5 3B Q2_K
+[x] fix prompt
 
 
 
